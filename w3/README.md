@@ -5,14 +5,13 @@
 ### 3주차 git
 
 ### 이미지
-[한국항공대학교 로고](../projects/2023_OSS/img/kau.png 
+![한국항공대학교 로고](../projects/2023_OSS/img/kau.png 
 "한국항공대학교")
 
 
-### 링크
-[LMS](http://lms.kau.ca.kr "항공대학교 강의관리실")
+### 링크[LMS](http://lms.kau.ca.kr "항공대학교 강의관리실")
 
-#### ProGit 링크
+### ProGit 링크
 [ProGit](http://git-scm.com/book/ko/v2 "git 문서, 한국어")
 
 
