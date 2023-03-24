@@ -5,7 +5,7 @@
 ### 3주차 git
 
 ### 이미지
-![한국항공대학교 로고](../projects/2023_OSS/img/kau/kau.png 
+![한국항공대학교 로고](../projects/2023_OSS/img/kau.png 
 "한국항공대학교")
 
 
